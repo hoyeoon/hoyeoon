@@ -1,8 +1,6 @@
 ### Hi there 👋
 Good day! I am Hoyeon Choi who is interested in Web Backend from South Korea.
 
-If you want to contact me, please leave me a message!
-
 <!--
 **hoyeoon/hoyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
