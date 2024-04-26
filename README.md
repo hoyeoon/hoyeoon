@@ -1,5 +1,5 @@
 ### Hi there 👋
-Good day! I am Hoyeon Choi who is interested in Server, Backend from South Korea.
+Good day! I’m currently working on Korean Federation of Community Credit Cooperatives as a software developer.
 <!--
 **hoyeoon/hoyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
