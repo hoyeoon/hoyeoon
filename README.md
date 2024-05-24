@@ -1,5 +1,5 @@
 ### Hi there 👋
-Good day! I’m currently working on Korean Federation of Community Credit Cooperatives as a software developer.
+Good day! I’m currently working on Korean Federation of Community Credit Cooperatives as a Core Banking Developer.
 <!--
 **hoyeoon/hoyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
